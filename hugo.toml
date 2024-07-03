@@ -1,4 +1,4 @@
-baseURL = "https://woowa-techcamp-2024.github.io/dev-log"
+baseURL = "https://woowa-techcamp-2024.github.io"
 languageCode = "ko-kr"
 title = "우테캠 기술 블로그"
 theme = "github-style"
@@ -14,9 +14,9 @@ publishdir = "./docs/"
   rss = true
   lastmod = true
   userStatusEmoji = "😀"
-  favicon = "/dev-log//images/favicon.png"
-  avatar = "/dev-log/images/woowa.png"
-  headerIcon = "/dev-log/images/woowacon.png"
+  favicon = "/images/favicon.png"
+  avatar = "/images/woowa.png"
+  headerIcon = "/images/woowacon.png"
   location = "Korea"
 
 [frontmatter]
