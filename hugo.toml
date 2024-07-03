@@ -1,3 +1,12 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://woowa-techcamp-2024.github.io/"
+languageCode = "ko-kr"
+title = "우아한 테크캠프 기술블로그"
+theme = "github-style"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+publishdir = "docs"
+
+[params]
+    favicon = "/images/favicon.png"
+    avatar = "/images/woowa.png"
+    headerIcon = "/images/woowacon.png"
